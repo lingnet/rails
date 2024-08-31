@@ -9,6 +9,6 @@
     "railties/test/fixtures/tmp/bukkits/**/spec/dummy"
   ],
   "dependencies": {
-    "webpack": "^4.17.1"
+    "webpack": "^5.94.0"
   }
 }
